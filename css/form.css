@@ -1,0 +1,31 @@
+.form__fieldset {
+    background-color: #8ee08e;
+    text-align: center;
+    font-family: "Lato", sans-serif;
+    border-radius: 15px;
+    border: 3px solid #151616;
+}
+
+.form__list {
+    text-align: center;
+    list-style-type: none;
+}
+
+.form__legend { 
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 30px;
+    color: rgb(156, 105, 38); 
+    background-color: #8ee08e;
+    border: 3px solid #151616;
+    border-radius: 5px;
+
+}
+
+.form__labelText {
+    max-width: 100px;
+    width: 100%;
+    display: inline-block;
+    margin-right: 5px;
+    
+    }
+
