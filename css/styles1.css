@@ -10,8 +10,7 @@ html {
   .body {
     max-width: 600px;
     margin: auto;
-    background-image: url("../images/bodyphoto.jpeg");
-    background-repeat: no-repeat;
+    background-image: url("../images/walutabackground.jpg");
     background-size: 100%;
   }
   
